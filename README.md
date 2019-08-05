@@ -29,9 +29,8 @@
 - Login Button
 <img src="/mockups/entities/loginBtn.jpg" />
 
-
 - Signup Button
-<img src="/mockups/routes/signupBtn.jpg" />
+<img src="/mockups/entities/signupBtn.jpg" />
 
 
 
