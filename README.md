@@ -4,7 +4,12 @@
 
 ### Routes
 #### /User
-!["user route"](/mockups/routes/user.jpg?raw=true "user route")
+<kbd>
+<img src="/mockups/routes/user.jpg" />
+</kbd>
+
+
+<!-- !["user route"](/mockups/routes/user.jpg?raw=true "user route") -->
 
 #### Header (logged in)
 !["header logged in"](/mockups/routes/header_loggedIn.jpg?raw=true "header logged in")
@@ -17,4 +22,5 @@
 !["shared"](/mockups/entities/common.jpg?raw=true "shared")
 
 #### User
+<kbd>
 !["user"](/mockups/entities/user.jpg?raw=true "user")
