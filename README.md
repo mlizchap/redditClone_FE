@@ -5,22 +5,40 @@
 ### Routes
 #### /User
 <kbd>
-<img src="/mockups/routes/user.jpg" />
+    <img src="/mockups/routes/user.jpg" />
 </kbd>
 
-
-<!-- !["user route"](/mockups/routes/user.jpg?raw=true "user route") -->
-
 #### Header (logged in)
-!["header logged in"](/mockups/routes/header_loggedIn.jpg?raw=true "header logged in")
+<kbd>
+    <img src="/mockups/routes/header_loggedIn.jpg" />
+</kbd>
 
 #### Header (logged out)
-!["header logged out"](/mockups/routes/header_loggedOut.jpg?raw=true "header logged out")
+<kbd>
+    <img src="/mockups/routes/header_loggedOut.jpg" />
+</kbd>
 
 ### Entities
-#### Shared
-!["shared"](/mockups/entities/common.jpg?raw=true "shared")
+#### User
+- User Card
+<img src="/mockups/routes/userCard.jpg" />
+
+- User Dropdown
+<img src="/mockups/routes/userDropdown.jpg" />
+
+- Login Button
+<img src="/mockups/routes/loginBtn.jpg" />
+
+
+- Signup Button
+<img src="/mockups/routes/signupBtn.jpg" />
+
+
+
+
+
+
 
 #### User
-<kbd>
-!["user"](/mockups/entities/user.jpg?raw=true "user")
+
+
