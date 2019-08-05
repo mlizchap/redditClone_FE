@@ -21,13 +21,13 @@
 ### Entities
 #### User
 - User Card
-<img src="/mockups/routes/userCard.jpg" />
+<img src="/mockups/entities/userCard.jpg" />
 
 - User Dropdown
-<img src="/mockups/routes/userDropdown.jpg" />
+<img src="/mockups/entities/userDropdown.jpg" />
 
 - Login Button
-<img src="/mockups/routes/loginBtn.jpg" />
+<img src="/mockups/entities/loginBtn.jpg" />
 
 
 - Signup Button
