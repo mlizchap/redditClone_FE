@@ -6,7 +6,16 @@
 - [ ] user can edit info
 - [ ] user can delete account
 
-
+## TO DO
+- [ ] create basic react app 
+- [ ] setup react router
+- [ ] setup routes
+- [ ] setup entity folder and make views only
+- [ ] allow user to create a new account
+- [ ] allow user to login to account
+- [ ] allow user to logout of account
+- [ ] allow user to change email address
+- [ ] allow user to delete account
 
 ## Routes
 ### /User
